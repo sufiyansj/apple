@@ -1,0 +1,24 @@
+.main [data-module-template="heroes"] [data-unit-id="imac-enhanced"] {
+	height: var(--content-height) !important;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="imac-enhanced"] .module-content {
+	height: var(--content-height) !important;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="imac-enhanced"] .module-content .unit-wrapper {
+	height: var(--content-height) !important;
+}
+
+.main [data-module-template="heroes"] [data-unit-id="imac-enhanced"] .module-content .unit-wrapper .ai-callout {
+	margin-top: 5px;
+}
+@media screen and (min-width: 1069px) and (min-height: 776px) {
+	.main [data-module-template="heroes"] [data-unit-id="imac-enhanced"] .module-content .unit-image {
+		bottom: 10px;
+	}
+}
+
+.main [data-module-template="heroes"] [data-unit-id="imac-enhanced"] .split-copy-wrapper.ai .unit-copy-wrapper .ai-callout {
+	margin-top: 0;
+}

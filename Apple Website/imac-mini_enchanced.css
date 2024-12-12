@@ -1,0 +1,87 @@
+/*------------------------------------*\
+		LOCAL SCREENS
+\*------------------------------------*/
+
+.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-mac-mini-enhanced-hero-macmini-announce {
+	background-image: url("./imac-mini/hero_macmini_announce__blbzy4bm2y3m_large_2x.jpg.jpg");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-mac-mini-enhanced-hero-macmini-announce {
+		background-image: url("./imac-mini/hero_macmini_announce__blbzy4bm2y3m_large_2x.jpg.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-mac-mini-enhanced-hero-macmini-announce {
+		background-image: url("./imac-mini/hero_macmini_announce__blbzy4bm2y3m_medium_2x.jpg.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-mac-mini-enhanced-hero-macmini-announce {
+		background-image: url("./imac-mini/hero_macmini_announce__blbzy4bm2y3m_medium_2x.jpg.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-mac-mini-enhanced-hero-macmini-announce {
+		background-image: url("./imac-mini/hero_macmini_announce__blbzy4bm2y3m_small_2x.jpg.jpg");
+	}
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-mac-mini-enhanced-hero-macmini-announce {
+		background-image: url("./imac-mini/hero_macmini_announce__blbzy4bm2y3m_small_2x.jpg.jpg");
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-mac-mini-enhanced-hero-macmini-announce {
+		background-image: url("./imac-mini/hero_macmini_announce__blbzy4bm2y3m_largetall.jpg.jpg");
+	}
+}
+
+@media only screen and (min-width: 1069px) and (min-height: 776px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 1.5dppx), only screen and (min-width: 1069px) and (min-height: 776px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-mac-mini-enhanced-hero-macmini-announce {
+		background-image: url("./imac-mini/hero_macmini_announce__blbzy4bm2y3m_mediumtall_2x.jpg.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-mac-mini-enhanced-hero-macmini-announce {
+		background-image: url("./imac-mini/hero_macmini_announce__blbzy4bm2y3m_mediumtall_2x.jpg.jpg");
+	}
+}
+
+@media only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-width: 735px) and (min-height: 734px) and (min-resolution: 144dpi) {
+	.main [data-module-template="heroes"] .unit-image-wrapper .unit-image.unit-image-mac-mini-enhanced-hero-macmini-announce {
+		background-image: url("./imac-mini/hero_macmini_announce__blbzy4bm2y3m_mediumtall_2x.jpg.jpg");
+	}
+}
+
+/*------------------------------------*\
+		END LOCAL SCREENS
+\*------------------------------------*/
+
+/*------------------------------------*\
+		LOCAL FIXES
+\*------------------------------------*/
+
+.main [data-module-template="heroes"] [data-unit-id="mac-mini-enhanced"] .split-copy-wrapper.ai .unit-copy-wrapper .subhead + .ai-callout {
+	margin-top: 8px;
+}
+@media only screen and (max-width: 1068px) {
+	.main [data-module-template="heroes"] [data-unit-id="mac-mini-enhanced"] .split-copy-wrapper.ai .unit-copy-wrapper .subhead + .ai-callout {
+		margin-top: 10px;
+	}
+}
+@media only screen and (max-width: 734px) {
+	.main [data-module-template="heroes"] [data-unit-id="mac-mini-enhanced"] .split-copy-wrapper.ai .unit-copy-wrapper .subhead + .ai-callout {
+		margin-top: 8px;
+	}
+}
+
+/*------------------------------------*\
+		END LOCAL FIXES
+\*------------------------------------*/
